@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hansana Sandeepa @HansSandeepa
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning javascript and C
 - 📫 How to reach me hansana.somarathna@gmail.com
 - 😄 Pronouns: He/Him
 
